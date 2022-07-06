@@ -1,0 +1,13 @@
+{
+    "vsicons.customIconFolderPath": "your path to the .vscode folder",
+    "vsicons.associations.files": [
+        {
+            "icon": "protocon",
+            "extensions": [
+                "protocon.config.js"
+            ],
+            "filename": true,
+            "format": "svg"
+        }
+    ]
+}
