@@ -7,10 +7,10 @@
 </p>
 <br />
 <p align="center">
-    <img src="https://img.shields.io/github/issues/OfficialProtocon/ProtoconVSIcons?logo=github&style=for-the-badge" />
-    <img src="https://img.shields.io/github/forks/OfficialProtocon/ProtoconVSIcons?logo=github&style=for-the-badge" />
-    <img src="https://img.shields.io/github/stars/OfficialProtocon/ProtoconVSIcons?logo=github&style=for-the-badge" />
-    <img src="https://img.shields.io/github/license/OfficialProtocon/ProtoconVSIcons?logo=github&style=for-the-badge" />
+    <img src="https://img.shields.io/github/issues/OfficialProtocon/ProtoconVSIcons?logo=github&style=for-the-badge" alt="Issues" />
+    <img src="https://img.shields.io/github/forks/OfficialProtocon/ProtoconVSIcons?logo=github&style=for-the-badge" alt="Forks" />
+    <img src="https://img.shields.io/github/stars/OfficialProtocon/ProtoconVSIcons?logo=github&style=for-the-badge" alt="Stars" />
+    <img src="https://img.shields.io/github/license/OfficialProtocon/ProtoconVSIcons?logo=github&style=for-the-badge" alt="License" />
 </p>
 
 # ProtoconVSIcons
