@@ -8,7 +8,7 @@
 <br />
 <p align="center">
     <a href="https://github.com/OfficialProtocon/ProtoconVSIcons/issues"><img src="https://img.shields.io/github/issues/OfficialProtocon/ProtoconVSIcons?logo=github&style=for-the-badge" alt="Issues" /></a>
-    <a href="[https://github.com/OfficialProtocon/ProtoconVSIcons/forks](https://github.com/OfficialProtocon/ProtoconVSIcons/network/members)"><img src="https://img.shields.io/github/forks/OfficialProtocon/ProtoconVSIcons?logo=github&style=for-the-badge" alt="Forks" /></a>
+    <a href="https://github.com/OfficialProtocon/ProtoconVSIcons/network/members"><img src="https://img.shields.io/github/forks/OfficialProtocon/ProtoconVSIcons?logo=github&style=for-the-badge" alt="Forks" /></a>
     <a href="https://github.com/OfficialProtocon/ProtoconVSIcons"><img src="https://img.shields.io/github/stars/OfficialProtocon/ProtoconVSIcons?logo=github&style=for-the-badge" alt="Stars" /></a>
     <a href="https://github.com/OfficialProtocon/ProtoconVSIcons/blob/master/LICENSE"><img src="https://img.shields.io/github/license/OfficialProtocon/ProtoconVSIcons?logo=github&style=for-the-badge" alt="License" /></a>
 </p>
